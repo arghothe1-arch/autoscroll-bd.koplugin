@@ -2,7 +2,7 @@
 Auto Scroll BD — gesture-controlled automatic scrolling plugin for KOReader
 Auto Scroll BD
 
-Automatic scrolling plugin for KOReader
+Automatic scrolling plugin for KOReader. Who needs a page Turner when you have autoscroll.
 
 Auto Scroll BD adds smooth, hands-free automatic scrolling to KOReader. It is designed especially for reading long-form content where you want the page to move continuously without repeatedly touching the screen.
 
@@ -23,12 +23,6 @@ Created by: Argho Rahamatullah
 - 📱 Works with touch-enabled KOReader devices
 
 ---
-
-📚 How It Works
-
-Auto Scroll BD continuously moves the book/document upward at the selected speed.
-
-Once Auto Scroll is started, the plugin periodically scrolls the current page. You can keep reading without manually swiping or turning the page.
 
 The scrolling speed can be adjusted while reading.
 
@@ -54,13 +48,10 @@ Auto Scroll BD is designed to move continuously through the document rather than
 
 Recommended setup
 
-Open the KOReader menu and enable the appropriate continuous page / continuous scrolling mode for your document.
-
-If continuous mode is not enabled, the scrolling behavior may not feel seamless when reaching the end of a page.
 
 ---
 
-2. Use Fast Screen Refresh Mode
+1. Use Fast Screen Refresh Mode
 
 For smooth automatic scrolling, use:
 
@@ -72,13 +63,6 @@ Recommended combination
 
 «Continuous page mode + Fast refresh mode»
 
-This is the recommended configuration for Auto Scroll BD.
-
-⚠️ Battery consideration
-
-Fast refresh mode may consume more battery than slower refresh modes.
-
-If battery life is more important than smoothness, you can switch back to your preferred refresh mode.
 
 ---
 
@@ -153,18 +137,6 @@ This allows you to control automatic scrolling without opening the plugin menu.
 
 ---
 
-💾 Speed Memory
-
-Auto Scroll BD remembers your selected scrolling speed.
-
-For example:
-
-1. Start Auto Scroll BD.
-2. Increase the speed until you find a comfortable reading speed.
-3. Stop reading.
-4. Open another book later.
-
-Your preferred speed is retained, so you don't have to configure it again every time.
 
 ---
 
@@ -228,9 +200,6 @@ Auto Scroll BD is particularly useful for:
 ---
 
 ❤️ Why Auto Scroll BD?
-
-Traditional e-readers are excellent for reading, but repeatedly swiping the screen can become inconvenient during long reading sessions.
-
 Auto Scroll BD provides a simple solution:
 
 Start → Set your speed → Read
@@ -240,8 +209,6 @@ No repeated swiping is required.
 ---
 
 📝 Notes
-
-Auto Scroll BD works best when the document is configured for continuous page/scrolled reading.
 
 For the smoothest experience, Fast screen refresh mode is recommended.
 
